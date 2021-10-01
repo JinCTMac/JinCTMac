@@ -5,7 +5,7 @@
 
 - 📖 I want to learn more about **React Native | Mobile Development | Video Games Development | Mobile Games Development**
 
-- 🔮 In the future I want to learn **Java, C#, Unity, AWS Cloud**
+- 🔮 In the future I want to learn **Java, C#, Unity, AWS Cloud, Microsoft Azure, SaaS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
