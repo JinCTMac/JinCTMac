@@ -16,6 +16,19 @@
 
 - Created the <a href="https://rails-the-watch-list.herokuapp.com/">Watch List</a>, a Rails application where users can record their favourite films in a list as part of a 2-day sprint to test knowledge of Rails concepts
 
+<h3>R</h3>
+
+- 250+ hours of experience
+
+- Developed solid understanding of R as a statistical language during 3-year Geography degree at UCL
+
+- Used for statistical modelling such as linear/multiple/multi-level regression and correlation testing
+
+- Performed data prepreparation, using packages such as dplyr for subsetting and manipulating datafiles mostly in .csv format 
+
+- Performed data visualisation and mapping, using packages such as ggplot2 and tmap to generate advanced charts, graphs and maps for geographical data
+
+- Undertook 2 major data projects using R - a 2000 word report that looked at whether active transport modes (walking, cycling) were more frequently associated with fatalities in London, using datasets from the London Datastore, and a 12,000 word dissertation that looked at the determinants of relative accessibility to retail centres in London using a combination of Census and open-source data
 
 <h3 align="center">TL;DR</h3>
 
