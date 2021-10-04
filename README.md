@@ -12,9 +12,13 @@
 
 <h3 align="center">Ruby/Ruby on Rails</h3>
 - Developed strong understanding of Ruby as a server-side language and the Rails framework to build full-stack applications at Le Wagon
+
 - 300+ hours of experience
+
 - Built Mannequin, a fashion rental application focused on environmental sustainability, as part of a 3-person team over a 2-week sprint with fully-functional real-time chat via ActionCable and Websocket, alongside payment capabilities with Stripe API
+
 - Built Rent-A-Robot, an AirBnB clone where users can rent out robots instead of flats as part of a 3-person team over a 1-week sprint, where I assumed the role of lead developer
+
 - Created the Watch List, a Rails application where users can record their favourite films in a list as part of a 2-day sprint to test knowledge of Rails concepts 
 
 
