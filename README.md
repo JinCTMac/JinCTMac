@@ -11,6 +11,7 @@
 <h2 align="center">Tech Stack Experience and Projects</h2>
 
 <h3 align="center">Ruby/Ruby on Rails</h3>
+
 - Developed strong understanding of Ruby as a server-side language and the Rails framework to build full-stack applications at Le Wagon
 
 - 300+ hours of experience
