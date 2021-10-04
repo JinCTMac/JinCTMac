@@ -2,9 +2,6 @@
 
 <h4>I'm a recent UCL graduate (BA Geography 1st Class Honours) and 10-week Full-stack Web Development Bootcamp graduate from Le Wagon. From my time at university, I gained skills in R and Python, specifically for data science applications including data analysis, data visualisation, machine learning and mapping. From my time at Le Wagon, I have obtained basic proficiency in HTML, CSS, Bootstrap, JavaScript, jQuery, Ruby, Ruby on Rails, SQL, Heroku, git and GitHub, providing me the technical skills necessary to start a job as a junior full-stack web developer. As of now, I am in the process of learning React, Redux and Node.js, hoping to land a job as a junior developer.</h4>
 
-<h3>Interests and hobbies</h3>
-<h4>I'm especially interested in tech and finance, and have hobbies in gaming, watching anime, learning Japanese and playing Badminton. I would love an opportunity to work as a games developer in the future, particularly in mobile gaming where I have a significant amount of knowledge about the gacha genre which is home to some of the top grossing mobile games - FGO, Genshin Impact, Monster Strike, P&D.</h4>
-
 <h2>Tech Stack Experience and Projects</h2>
 
 <h3>Ruby/Ruby on Rails</h3>
@@ -13,11 +10,11 @@
 
 - 300+ hours of experience
 
-- Built Mannequin, a fashion rental application focused on environmental sustainability, as part of a 3-person team over a 2-week sprint with fully-functional real-time chat via ActionCable and Websocket, alongside payment capabilities with Stripe API
+- Built <a href="http://www.mannequinn.co.uk/">Mannequin</a>, a fashion rental application focused on environmental sustainability, as part of a 3-person team over a 2-week sprint with fully-functional real-time chat via ActionCable and Websocket, alongside payment capabilities with Stripe API
 
-- Built Rent-A-Robot, an AirBnB clone where users can rent out robots instead of flats as part of a 3-person team over a 1-week sprint, where I assumed the role of lead developer
+- Built <a href= "https://rails-rent-a-robot.herokuapp.com/">Rent-A-Robot</a>, an AirBnB clone where users can rent out robots instead of flats as part of a 3-person team over a 1-week sprint, where I assumed the role of lead developer
 
-- Created the Watch List, a Rails application where users can record their favourite films in a list as part of a 2-day sprint to test knowledge of Rails concepts 
+- Created the <a href="https://rails-the-watch-list.herokuapp.com/">Watch List</a>, a Rails application where users can record their favourite films in a list as part of a 2-day sprint to test knowledge of Rails concepts
 
 
 <h3 align="center">TL;DR</h3>
@@ -27,6 +24,9 @@
 - 📖 I want to learn more about **React Native | Mobile Development | Video Games Development | Mobile Games Development**
 
 - 🔮 In the future I want to learn **Java, C#, Unity, AWS Cloud, Microsoft Azure, SaaS**
+
+<h3>Interests and hobbies</h3>
+<h4>I'm especially interested in tech and finance, and have hobbies in gaming, watching anime, learning Japanese and playing Badminton. I would love an opportunity to work as a games developer in the future, particularly in mobile gaming where I have a significant amount of knowledge about the gacha genre which is home to some of the top grossing mobile games - FGO, Genshin Impact, Monster Strike, P&D.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
