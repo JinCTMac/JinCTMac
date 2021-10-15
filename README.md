@@ -16,6 +16,12 @@
 
 - Created the <a href="https://rails-the-watch-list.herokuapp.com/">Watch List</a>, a Rails application where users can record their favourite films in a list as part of a 2-day sprint to test knowledge of Rails concepts
 
+<h3>Javascript/React</h3>
+
+- 150+ hours of experience
+
+- Good understanding of JS fundamentals for front-end applications as part of Le Wagon bootcamp, and aware of server-side uses with Node.js as part of Angela Yu's 2021 Full-stack web development Udemy course
+
 <h3>R</h3>
 
 - 250+ hours of experience
