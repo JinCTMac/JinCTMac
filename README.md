@@ -36,6 +36,18 @@
 
 - Undertook 2 major data projects using R - a 2000 word report that looked at whether active transport modes (walking, cycling) were more frequently associated with fatalities in London, using datasets from the London Datastore, and a 12,000 word dissertation that looked at the determinants of relative accessibility to retail centres in London using a combination of Census and open-source data
 
+<h3>Python</h3>
+
+- 50+ hours of experience
+
+- Learnt fundamentals of Python for data science and machine learning during my 3-year Geography degree at UCL
+
+- Used numpy, pandas, matplotlib and more for data preprocessing and data visualisation
+
+- Gained an understanding of the ML pipeline and ML implementation for recommendation systems, sentiment analysis, ensemble methods including random forest classifiers
+
+- Used scikit, NLTK, Gensim and more for a natural language processing assignment to process restaurant reviews data from Calgary, Canada and generate map visualisations of the best/worst restaurants in the city
+
 <h3 align="center">TL;DR</h3>
 
 - 🌱 I’m currently learning **React, Node.js**
