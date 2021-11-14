@@ -54,7 +54,7 @@
 
 - 📖 I want to learn more about **React Native | Mobile Development | Video Games Development | Mobile Games Development**
 
-- 🔮 In the future I want to learn **Java, C#, Unity, AWS Cloud, Microsoft Azure, Salesforce/CRMs, SaaS**
+- 🔮 In the future I want to learn **Java, C#, Unity, Google Cloud, AWS Cloud, Microsoft Azure, Salesforce/CRMs, SaaS**
 
 <h3>Interests and hobbies</h3>
 <h4>I'm especially interested in tech and finance, and have hobbies in gaming, watching anime, learning Japanese and playing Badminton. I would love an opportunity to work as a games developer in the future, particularly in mobile gaming where I have a significant amount of knowledge about the gacha genre which is home to some of the top grossing mobile games - FGO, Genshin Impact, Monster Strike, P&D.</h4>
