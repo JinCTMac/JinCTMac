@@ -20,7 +20,8 @@
 
 - 150+ hours of experience
 
-- Good understanding of JS fundamentals for front-end applications as part of Le Wagon bootcamp, and aware of server-side uses with Node.js as part of Angela Yu's 2021 Full-stack web development Udemy course
+- Good understanding of JS fundamentals for client-side interactability
+- Experience with NPM, node.js and Express.js for building JS web applications, including routing and API calls
 
 <h3>R</h3>
 
