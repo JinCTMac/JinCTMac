@@ -18,7 +18,7 @@
 
 <h3>Javascript/React</h3>
 
-- 150+ hours of experience
+- 200+ hours of experience
 
 - Good understanding of JS fundamentals for client-side interactability
 - Experience with NPM, node.js and Express.js for building JS web applications, including routing and API calls
@@ -39,7 +39,7 @@
 
 <h3>Python</h3>
 
-- 50+ hours of experience
+- 100+ hours of experience
 
 - Learnt fundamentals of Python for data science and machine learning during my 3-year Geography degree at UCL
 
