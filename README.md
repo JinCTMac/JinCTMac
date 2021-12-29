@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jin Mac</h1>
 
-<h4>I'm a recent UCL graduate (BA Geography 1st Class Honours) and 10-week Full-stack Web Development Bootcamp graduate from Le Wagon. From my time at university, I gained skills in R and Python, specifically for data science applications including data analysis, data visualisation, machine learning and mapping. From my time at Le Wagon, I have obtained basic proficiency in HTML, CSS, Bootstrap, JavaScript, jQuery, Ruby, Ruby on Rails, SQL, Heroku, git and GitHub, providing me the technical skills necessary to start a job as a junior full-stack web developer. As of now, I am in the process of learning React, Redux and Node.js, hoping to land a job as a junior developer.</h4>
+<h4>I'm a recent UCL graduate (BA Geography 1st Class Honours) and 10-week Full-stack Web Development Bootcamp graduate from Le Wagon. From my time at university, I gained skills in R and Python, specifically for data science applications including data analysis, data visualisation, machine learning and mapping. From my time at Le Wagon, I have obtained basic proficiency in HTML, CSS, Bootstrap, JavaScript, jQuery, Ruby, Ruby on Rails, SQL, Heroku, git and GitHub, providing me the technical skills necessary to start a job as a junior full-stack web developer. As of now, I am in the process of learning React, Redux and Node.js, hoping to land a job as a junior developer, though very much open to data analysis/data science roles with a coding element to them.</h4>
 
 <h2>Tech Stack Experience and Projects</h2>
 
