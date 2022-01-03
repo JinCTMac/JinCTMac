@@ -49,6 +49,8 @@
 
 - Used scikit, NLTK, Gensim and more for a natural language processing assignment to process restaurant reviews data from Calgary, Canada and generate map visualisations of the best/worst restaurants in the city
 
+- Currently studying the Google IT Automation with Python Coursera certification, building my skills in Python and learning to apply them to automation of processes
+
 <h3 align="center">TL;DR</h3>
 
 - 🌱 I’m currently learning **React, Node.js**
