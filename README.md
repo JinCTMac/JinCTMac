@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jin Mac</h1>
 
-<h4>I'm a recent UCL graduate (BA Geography 1st Class Honours) and 10-week Full-stack Web Development Bootcamp graduate from Le Wagon. From my time at university, I gained skills in R and Python, specifically for data science applications including data analysis, data visualisation, machine learning and mapping. From my time at Le Wagon, I have obtained basic proficiency in HTML, CSS, Bootstrap, JavaScript, jQuery, Ruby, Ruby on Rails, SQL, Heroku, git and GitHub, providing me the technical skills necessary to start a job as a junior full-stack web developer. As of now, I am in the process of learning React, Redux and Node.js, hoping to land a job as a junior developer, though very much open to data analysis/data science roles with a coding element to them.</h4>
+<h4>I'm a recent UCL graduate (BA Geography 1st Class Honours) and 10-week Full-stack Web Development Bootcamp graduate from Le Wagon. From my time at university, I gained skills in R and Python, specifically for data science applications including data analysis, data visualisation, machine learning and mapping. From my time at Le Wagon, I have obtained basic proficiency in HTML, CSS, Bootstrap, JavaScript, jQuery, Ruby, Ruby on Rails, SQL, Heroku, git and GitHub, providing me the technical skills necessary to start a job as a junior full-stack web developer. I am currently a Digital Analyst at Tesco, hoping to make use of my fundamentals in data analysis and data science alongside knowledge of software development to deliver data-driven insights and assist the development of features on Tesco's technology platform.</h4>
 
 <h2>Tech Stack Experience and Projects</h2>
 
@@ -53,11 +53,11 @@
 
 <h3 align="center">TL;DR</h3>
 
-- 🌱 I’m currently learning **React, Node.js**
+- 🌱 I’m currently learning **Node.js and Python**
 
-- 📖 I want to learn more about **React Native | Mobile Development | Video Games Development | Mobile Games Development**
+- 📖 I want to learn more about **Data Engineering/Data Science | Mobile Development | Video Games Development | Mobile Games Development**
 
-- 🔮 In the future I want to learn **Java, C#, Unity, Google Cloud, AWS Cloud, Microsoft Azure, Salesforce/CRMs, SaaS**
+- 🔮 In the future I want to learn **Java, C#, Unity, ML, Google Cloud, AWS Cloud, Microsoft Azure, SaaS**
 
 <h3>Interests and hobbies</h3>
 <h4>I'm especially interested in tech and finance, and have hobbies in gaming, watching anime, learning Japanese and playing Badminton. I would love an opportunity to work as a games developer in the future, particularly in mobile gaming where I have a significant amount of knowledge about the gacha genre which is home to some of the top grossing mobile games - FGO, Genshin Impact, Monster Strike, P&D.</h4>
