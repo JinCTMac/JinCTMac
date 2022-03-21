@@ -51,6 +51,16 @@
 
 - Currently studying the Google IT Automation with Python Coursera certification, building my skills in Python and learning to apply them to automation of processes
 
+<h3>SQL</h3>
+
+- 50+ hours of experience
+
+- strong fundamentals with basic statements, joins and aggregation functions carried over from knowledge of R and pandas in Python
+
+- familiar with relational database design and schema
+
+- familiar with cloud-based SQL databases and editors such as Alation and Google Bigquery
+
 <h3 align="center">TL;DR</h3>
 
 - 🌱 I’m currently learning **Node.js and Python**
