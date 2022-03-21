@@ -16,11 +16,12 @@
 
 - Created the <a href="https://rails-the-watch-list.herokuapp.com/">Watch List</a>, a Rails application where users can record their favourite films in a list as part of a 2-day sprint to test knowledge of Rails concepts
 
-<h3>Javascript/React</h3>
+<h3>Javascript/Node.js</h3>
 
 - 200+ hours of experience
 
 - Good understanding of JS fundamentals for client-side interactability
+
 - Experience with NPM, node.js and Express.js for building JS web applications, including routing and API calls
 
 <h3>R</h3>
