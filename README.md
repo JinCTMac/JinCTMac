@@ -54,7 +54,7 @@
 
 <h3>SQL</h3>
 
-- 50+ hours of experience
+- 100+ hours of experience
 
 - strong fundamentals with basic statements, joins and aggregation functions carried over from knowledge of R and pandas in Python
 
