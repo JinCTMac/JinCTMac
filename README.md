@@ -58,7 +58,7 @@
 
 - strong fundamentals with basic statements, joins and aggregation functions carried over from knowledge of R and pandas in Python
 
-- familiar with subquerying, window functions, and performing advanced joins with subqueries to improve runtime performance
+- familiar with data cleaning processes, subquerying, window functions, and performing advanced joins with subqueries to improve runtime performance
 
 - familiar with relational database design and schema
 
