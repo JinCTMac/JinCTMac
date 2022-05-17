@@ -75,6 +75,8 @@
 <h3>Interests and hobbies</h3>
 <h4>I'm especially interested in tech and finance, and have hobbies in gaming, watching anime, learning Japanese and playing Badminton. I would love an opportunity to work as a games developer in the future, particularly in mobile gaming where I have a significant amount of knowledge about the gacha genre which is home to some of the top grossing mobile games - FGO, Genshin Impact, Monster Strike, P&D.</h4>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinCTMac)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jinmac/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jin mac" height="30" width="40" /></a>
