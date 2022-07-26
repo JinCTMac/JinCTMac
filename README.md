@@ -68,7 +68,7 @@
 
 - 🌱 I’m currently learning **Node.js and Python**
 
-- 📖 I want to learn more about **Data Science/Data Engineering | Mobile Development | Video Games Development | Mobile Games Development**
+- 📖 I want to learn more about **Data Science/Data Analytics | Mobile Development | Video Games Development | Mobile Games Development**
 
 - 🔮 In the future I want to learn **Java, C#, Unity, ML, Google Cloud, AWS Cloud, Microsoft Azure, SaaS**
 
