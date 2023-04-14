@@ -54,7 +54,7 @@
 
 <h3>SQL</h3>
 
-- 150+ hours of experience
+- 250+ hours of experience
 
 - Strong fundamentals with basic statements, joins and aggregation functions carried over from knowledge of R and pandas in Python
 
@@ -63,6 +63,8 @@
 - Familiar with relational database design and schema
 
 - Familiar with cloud-based SQL databases and editors such as Alation and Google Bigquery
+
+- Familiar with connecting SQL Databases to Tableau, and building dashboards using Live and Extract connections to SQL data
 
 <h3 align="center">TL;DR</h3>
 
