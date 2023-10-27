@@ -40,7 +40,7 @@
 
 <h3>Python</h3>
 
-- 100+ hours of experience
+- 200+ hours of experience
 
 - Learnt fundamentals of Python for data science and machine learning during my 3-year Geography degree at UCL
 
@@ -54,11 +54,13 @@
 
 <h3>SQL</h3>
 
-- 250+ hours of experience
+- 400+ hours of experience
 
 - Strong fundamentals with basic statements, joins and aggregation functions carried over from knowledge of R and pandas in Python
 
 - Familiar with data cleaning processes, subquerying, window functions, and performing advanced joins with subqueries to improve runtime performance
+
+- Created, maintained and updated regularly used tables through automation and efficient code
 
 - Familiar with relational database design and schema
 
